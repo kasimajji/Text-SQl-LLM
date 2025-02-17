@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    kasi:
+      email: kasi@gmail.com
+      name: Kasi
+      password: abc123 # To be replaced with hashed password
+    ravi:
+      email: ravi@gmail.com
+      name: ravi
+      password: ravi123 #To be replaced with hashed password
+cookie:
+  expiry_days: 7
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  # - melsby@gmail.com
