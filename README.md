@@ -2,7 +2,14 @@
 
 In this LLM project,building a user-friendly web application that leverages Large Language Models (LLMs) to convert natural language queries into optimized SQL commands.
 
-https://projex.gumlet.io/text-2-sql-llm/images/image_(4).png?w=1000&dpr=2.0![image](https://github.com/user-attachments/assets/1b1947ed-b6d5-4088-bddf-a8051153ca4c)
+![Alt Text](https://projex.gumlet.io/text-2-sql-llm/images/image_(4).png?w=1000&dpr=2.0![image](https://github.com/user-attachments/assets/1b1947ed-b6d5-4088-bddf-a8051153ca4c))
+
+## Files in repositories
+1. Data folder contains all the sample data for testing.
+2. Articafts folder for the logos used in the streamlit app
+3. SRC folder is contains two files for logo creation and main functions used in the program
+4. requirements.txt file is for requirements
+5. SQLGenPro_Live.py file is the main file contining code for all the streamlit web app
 
 ## What will you learn?
 1. Learn the basics of LLMs and how they can be leveraged for natural language processing tasks
@@ -43,24 +50,6 @@ In this project, we will develop a user-friendly Streamlit web application that 
 
 Check out our previous project, Build a Langchain Streamlit Chatbot for EDA using LLMs, which generates SQL queries to fetch data and Python code to create visualizations, enhancing exploratory data analysis through interactive chatbot capabilities.
 
-
-### Prerequisite Project: 
-Kindly ensure the completion of the LLM Project for building and fine-tuning a large language model before proceeding with this project.
-
-
-
-
-### Prerequisites: 
-Basics of LLMs, Prompt Engineering, Python and Streamlit
-
-
-
-
-### Note: 
-Utilizing Azure and AWS services for this project may result in charges; it is essential to thoroughly review the Azure and AWS documentation to understand the pricing structure and potential costs associated with different resources and usage patterns.
-
-### Aim
-The aim of the SQLGenPro project is to develop a Streamlit-based web application that utilizes Large Language Models (LLMs) to convert natural language queries into optimized SQL commands, enabling secure database interaction, user authentication, and seamless deployment on AWS.
 
 ## Data Description
 The food delivery application database contains detailed records of users, restaurants, menu items, orders, payments, and reviews, capturing every transaction and interaction within the app. This comprehensive dataset, with tables such as Users, Restaurants, Orders, and Reviews, is designed to support the analysis of customer behaviors, service optimization, and overall business performance.
