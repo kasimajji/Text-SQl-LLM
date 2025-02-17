@@ -89,6 +89,9 @@ Test the application with complex SQL queries to ensure robustness.
 ### 6. Deployment:
 Configure and deploy the application on AWS EC2 with HTTPS for secure access and scalable performance.
 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/2fb28c3b-b073-4f01-aa1c-82c92661f5b7" />
+
+
  
 
 
