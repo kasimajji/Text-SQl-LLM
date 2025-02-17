@@ -26,7 +26,7 @@ In this LLM project,building a user-friendly web application that leverages Larg
 10. Learn how to dynamically generate and render ERD diagrams using LLMs and integrate them into the application
 11. Learn how to implement a self-correction feedback loop that allows the application to refine and improve the accuracy of generated SQL queries over time
 12. Acquire knowledge of how to configure and deploy web applications securely on AWS EC2, including HTTPS setup
-13. Learn best practices for ensuring the security and scalability of deployed web applications
+
 
 ## Project Description:
 
@@ -92,8 +92,16 @@ Configure and deploy the application on AWS EC2 with HTTPS for secure access and
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/2fb28c3b-b073-4f01-aa1c-82c92661f5b7" />
 
 
+<img width="761" alt="Screenshot 2025-02-17 at 1 31 50 AM" src="https://github.com/user-attachments/assets/4c407b43-d4a2-4cfc-9b6c-89e44648cc08" /> 
+
  
 
+<img width="761" alt="Screenshot 2025-02-17 at 1 34 40 AM" src="https://github.com/user-attachments/assets/13e14bdf-8fdd-4b11-b68c-aa7cf98ffef7" /> 
+<img width="761" alt="Screenshot 2025-02-17 at 1 33 56 AM" src="https://github.com/user-attachments/assets/deeb3045-f4fd-4707-9c55-4ade0d514e52" />
+<img width="761" alt="Screenshot 2025-02-17 at 1 33 14 AM" src="https://github.com/user-attachments/assets/651ce5de-81a4-4e4d-ad2d-618fa91f112c" />
+<img width="761" alt="Screenshot 2025-02-17 at 1 32 53 AM" src="https://github.com/user-attachments/assets/754e92df-6a93-49f0-b23d-92b8839dd8ec" />
+<img width="761" alt="Screenshot 2025-02-17 at 1 32 30 AM" src="https://github.com/user-attachments/assets/310bd3db-2aaa-4df9-a0a5-c3b3def1d559" />
+<img width="761" alt="Screenshot 2025-02-17 at 1 31 50 AM" src="https://github.com/user-attachments/assets/18805a91-a599-445e-a84e-b2724b7aaf08" />
 
 
 ## Prerequisites
