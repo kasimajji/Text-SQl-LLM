@@ -10,7 +10,9 @@ In this LLM project,building a user-friendly web application that leverages Larg
 3. SRC folder is contains two files for logo creation and main functions used in the program
 4. requirements.txt file is for requirements
 5. SQLGenPro_Live.py file is the main file contining code for all the streamlit web app
-
+6. authenticator.yml file is for authetication purpose those users only can login to the app
+7. env is the .env file where we upload all the envinormental variables.
+   
 ## What will you learn?
 1. Learn the basics of LLMs and how they can be leveraged for natural language processing tasks
 2. Familiarize yourself with the technologies used in the project: Streamlit, OpenAI, Databricks, and Snowflake
