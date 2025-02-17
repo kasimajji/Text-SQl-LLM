@@ -2,7 +2,9 @@
 
 In this LLM project,building a user-friendly web application that leverages Large Language Models (LLMs) to convert natural language queries into optimized SQL commands.
 
-##What will you learn?
+https://projex.gumlet.io/text-2-sql-llm/images/image_(4).png?w=1000&dpr=2.0![image](https://github.com/user-attachments/assets/1b1947ed-b6d5-4088-bddf-a8051153ca4c)
+
+## What will you learn?
 1. Learn the basics of LLMs and how they can be leveraged for natural language processing tasks
 2. Familiarize yourself with the technologies used in the project: Streamlit, OpenAI, Databricks, and Snowflake
 3. Understand how to securely connect and interact with databases on Databricks
@@ -17,19 +19,19 @@ In this LLM project,building a user-friendly web application that leverages Larg
 12. Acquire knowledge of how to configure and deploy web applications securely on AWS EC2, including HTTPS setup
 13. Learn best practices for ensuring the security and scalability of deployed web applications
 
-##Project Description:
+## Project Description:
 
 In today's data-driven world, organizations across industries rely heavily on data to make informed decisions. Data is often stored in relational databases, which require SQL (Structured Query Language) to retrieve and manipulate information. However, writing SQL queries can be challenging for many professionals, especially those without a technical background, such as business analysts, product managers, or executives.
 
 Despite the widespread availability of data, a significant bottleneck remains: the need for SQL expertise to extract meaningful insights. This creates a dependency on specialized teams, such as data analysts or engineers, to write queries and generate reports. As a result, decision-making can be delayed, and productivity hampered, particularly in situations where quick access to data is critical.
 
-##Why a Text-to-SQL Tool is Necessary:
+## Why a Text-to-SQL Tool is Necessary:
 
 The need for democratizing data access is more pressing than ever. A Text-to-SQL tool bridges this gap by enabling non-technical users to interact with databases using natural language. This reduces the reliance on SQL experts, accelerates decision-making, and promotes a more data-driven culture within organizations.
 
 Moreover, even for experienced coders, writing complex SQL queries can be time-consuming. A tool that can accurately translate natural language into optimized SQL queries can significantly enhance productivity, allowing coders to focus on more strategic tasks rather than spending time on routine query writing.
 
-##How LLMs Are Solving Productivity Problems:
+## How LLMs Are Solving Productivity Problems:
 
 Large Language Models (LLMs) like GPT-4 have shown remarkable capabilities in understanding and generating human-like text. When applied to the task of translating natural language to SQL, LLMs can accurately interpret user intentions, generate complex SQL queries, and even optimize them for performance. This reduces the likelihood of errors, enhances query accuracy, and enables faster data retrieval.
 
@@ -42,92 +44,58 @@ In this project, we will develop a user-friendly Streamlit web application that 
 Check out our previous project, Build a Langchain Streamlit Chatbot for EDA using LLMs, which generates SQL queries to fetch data and Python code to create visualizations, enhancing exploratory data analysis through interactive chatbot capabilities.
 
 
-###Prerequisite Project: 
+### Prerequisite Project: 
 Kindly ensure the completion of the LLM Project for building and fine-tuning a large language model before proceeding with this project.
 
 
 
 
-###Prerequisites: 
+### Prerequisites: 
 Basics of LLMs, Prompt Engineering, Python and Streamlit
 
 
 
 
-###Note: 
+### Note: 
 Utilizing Azure and AWS services for this project may result in charges; it is essential to thoroughly review the Azure and AWS documentation to understand the pricing structure and potential costs associated with different resources and usage patterns.
 
- 
-
- 
-
-Aim
-
+### Aim
 The aim of the SQLGenPro project is to develop a Streamlit-based web application that utilizes Large Language Models (LLMs) to convert natural language queries into optimized SQL commands, enabling secure database interaction, user authentication, and seamless deployment on AWS.
 
-
-
-
-##Data Description 
-
+## Data Description
 The food delivery application database contains detailed records of users, restaurants, menu items, orders, payments, and reviews, capturing every transaction and interaction within the app. This comprehensive dataset, with tables such as Users, Restaurants, Orders, and Reviews, is designed to support the analysis of customer behaviors, service optimization, and overall business performance.
 
-
-
-
-###Tech Stack
+### Tech Stack
 
 Language: Python 3.10
-
 Libraries: Langchain, Langchain-openai, streamlit, Databricks
-
 Model: GPT-4
-
 Cloud Platform: Microsoft Azure and AWS
 
- 
-
- 
-
-##Approach
-
-
-###1. Virtual Environment and Dependencies:
-
+## Approach
+### 1. Virtual Environment and Dependencies:
 Create a Python virtual environment and install necessary libraries (Streamlit, OpenAI, LangChain, database connectors).
-
 Configure access to Databricks and Snowflake, including connection setup and testing.
-
 Set up the development environment in VS Code.
 
-###2. LLM Integration and Database Interaction:
-
+### 2. LLM Integration and Database Interaction:
 Integrate the LLM via API to convert natural language queries into SQL.
-
 Develop backend modules to execute SQL queries on Databricks/Snowflake and retrieve results.
-
 Implement error handling to manage SQL generation and execution issues.
 
-###3. Prompt Engineering and SQL Optimization:
-
+### 3. Prompt Engineering and SQL Optimization:
 Create and refine prompt templates to accurately generate SQL, including complex queries (CTEs, joins).
-
 Implement SQL validation and optimization to ensure generated queries are efficient and correct.
 
-###4. User Interface and Authentication:
-
-Build an intuitive Streamlit interface for inputting queries, displaying SQL results, and managing query history/favorites.
-
+### 4. User Interface and Authentication:
+Build an intuitive Streamlit interface for inputting queries, displaying SQL results, and managing query history/favorites. 
 Implement user authentication with secure session management and personalized experiences.
 
-###5. Advanced Query Handling and Feature Integration:
-
+### 5. Advanced Query Handling and Feature Integration:
 Develop "Quick Analysis," "Deep Dive Analysis," and "Favorites" sections for enhanced user interaction.
-
 Test the application with complex SQL queries to ensure robustness.
 
-###6. Deployment:
-
+### 6. Deployment:
 Configure and deploy the application on AWS EC2 with HTTPS for secure access and scalable performance.
 
  
